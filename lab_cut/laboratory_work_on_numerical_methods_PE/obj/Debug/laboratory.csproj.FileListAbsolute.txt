@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\laboratory_work_on_numerical_methods_PE_all\laboratory_work_on_numerical_methods_PE\bin\Debug\laboratory_work_on_numerical_methods_PE.exe.config
+C:\Users\User\Desktop\laboratory_work_on_numerical_methods_PE_all\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.exe
+C:\Users\User\Desktop\laboratory_work_on_numerical_methods_PE_all\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.pdb
+C:\Users\User\Desktop\laboratory_work_on_numerical_methods_PE_all\laboratory_work_on_numerical_methods_PE\bin\Debug\laboratory_work_on_numerical_methods_PE.exe
+C:\Users\User\Desktop\laboratory_work_on_numerical_methods_PE_all\laboratory_work_on_numerical_methods_PE\bin\Debug\laboratory_work_on_numerical_methods_PE.pdb
+C:\Users\User\Desktop\laboratory_work_on_numerical_methods_PE_all\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory.Form1.resources
+C:\Users\User\Desktop\laboratory_work_on_numerical_methods_PE_all\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.Properties.Resources.resources
+C:\Users\User\Desktop\laboratory_work_on_numerical_methods_PE_all\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\laboratory\laboratory_work_on_numerical_methods_PE\bin\Debug\laboratory_work_on_numerical_methods_PE.exe.config
+C:\Users\User\Desktop\laboratory\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.exe
+C:\Users\User\Desktop\laboratory\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.pdb
+C:\Users\User\Desktop\laboratory\laboratory_work_on_numerical_methods_PE\bin\Debug\laboratory_work_on_numerical_methods_PE.exe
+C:\Users\User\Desktop\laboratory\laboratory_work_on_numerical_methods_PE\bin\Debug\laboratory_work_on_numerical_methods_PE.pdb
+C:\Users\User\Desktop\laboratory\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory.Form1.resources
+C:\Users\User\Desktop\laboratory\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.Properties.Resources.resources
+C:\Users\User\Desktop\laboratory\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\laboratory — копия\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory.Form1.resources
+C:\Users\User\Desktop\laboratory — копия\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.Properties.Resources.resources
+C:\Users\User\Desktop\laboratory — копия\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\laboratory — копия\laboratory_work_on_numerical_methods_PE\bin\Debug\laboratory_work_on_numerical_methods_PE.exe.config
+C:\Users\User\Desktop\laboratory — копия\laboratory_work_on_numerical_methods_PE\bin\Debug\laboratory_work_on_numerical_methods_PE.exe
+C:\Users\User\Desktop\laboratory — копия\laboratory_work_on_numerical_methods_PE\bin\Debug\laboratory_work_on_numerical_methods_PE.pdb
+C:\Users\User\Desktop\laboratory — копия\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.exe
+C:\Users\User\Desktop\laboratory — копия\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.pdb
+C:\Users\User\Desktop\laboratory — копия\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\laboratory — копия — с вырезом\laboratory_work_on_numerical_methods_PE\bin\Debug\laboratory_work_on_numerical_methods_PE.exe.config
+C:\Users\User\Desktop\laboratory — копия — с вырезом\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.exe
+C:\Users\User\Desktop\laboratory — копия — с вырезом\laboratory_work_on_numerical_methods_PE\obj\Debug\laboratory_work_on_numerical_methods_PE.pdb
